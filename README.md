@@ -11,3 +11,6 @@ Solid Works CAD for our LV2.3 airframe
  - [sw-cad-airframe-rollcontrol](https://github.com/psas/sw-cad-airframe-rollcontrol)
  - [sw-cad-airframe-nsr](https://github.com/psas/sw-cad-airframe-nsr)
  - [sw-cad-airframe-umbilical-disconnect](https://github.com/psas/sw-cad-airframe-umbilical-disconnect)
+
+
+See https://github.com/psas/sw-cad-common#psas-solidworks-setup-and-use-procedures for procedures on using github for Solidworks files
